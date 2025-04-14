@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation code for the paper titled **"Enhancing Privacy-Preserving of Heterogeneous Federated Learning Algorithms Using Data-Free Knowledge Distillation"**. The proposed FedSGAN architecture is illustrated in the figure below:
+This repository contains the implementation code for the paper titled **"EPRIV-HFL: Privacy-Preserving and Robust Federated Learning for Heterogeneous Clients Against Data Reconstruction Attacks"**. The proposed FedSGAN architecture is illustrated in the figure below:
 
 ![FedSGAN Architecture](img/FedSec-gan.jpg)
 
@@ -26,5 +26,3 @@ To modify the model architecture used by the clients:
 ## Additional Information
 
 For further details on configuration and usage, please refer to the comments and documentation within the `main.py` and `net.py` files. If you have any questions or need support, feel free to open an issue on this repository.
-
-Happy coding!
